@@ -26,6 +26,6 @@ Read the [PDF](/docs/explained.pdf) for more information.
 
 GUI made with React.js, Axios.js, & TypeScript
 
-Backend made with Java & SpringBoot
+Backend made with Java & Spring MVC
 
 Programmed by Andujar Brutus
