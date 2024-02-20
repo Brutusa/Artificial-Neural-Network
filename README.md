@@ -1,4 +1,4 @@
-# Andujar Brutus' Artificial Neural Network results on the IRIS Dataset
+# Artificial Neural Network results on the IRIS Dataset
 Read the [PDF](/docs/explained.pdf) for more information.
 
 # ANN Design
